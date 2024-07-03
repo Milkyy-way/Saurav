@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Saurav/static/css/main.58a0c615.css",
+    "main.js": "/Saurav/static/js/main.72d5b3a2.js",
+    "static/media/HeroImage.jpg": "/Saurav/static/media/HeroImage.211da9762065406d7b93.jpg",
+    "index.html": "/Saurav/index.html",
+    "main.58a0c615.css.map": "/Saurav/static/css/main.58a0c615.css.map",
+    "main.72d5b3a2.js.map": "/Saurav/static/js/main.72d5b3a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.72d5b3a2.js"
+  ]
+}
